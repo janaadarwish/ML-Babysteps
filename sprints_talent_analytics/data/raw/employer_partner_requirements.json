@@ -1,0 +1,455 @@
+{
+  "employer_requirements": [
+    {
+      "role_id": "REQ-1001",
+      "job_title": "Junior Data Analyst",
+      "company_tier": "Tier 1",
+      "industry": "FinTech",
+      "required_skills": ["Python", "Pandas", "SQL", "Data Visualization"],
+      "minimum_assessment_threshold": 85,
+      "priority_weight": 0.90
+    },
+    {
+      "role_id": "REQ-1002",
+      "job_title": "Data Scientist I",
+      "company_tier": "Tier 1",
+      "industry": "E-Commerce",
+      "required_skills": ["Python", "Machine Learning", "Scikit-Learn", "NumPy", "Statistics"],
+      "minimum_assessment_threshold": 92,
+      "priority_weight": 0.95
+    },
+    {
+      "role_id": "REQ-1003",
+      "job_title": "BI Developer",
+      "company_tier": "Tier 2",
+      "industry": "Retail",
+      "required_skills": ["SQL", "Tableau", "Data Visualization", "Python"],
+      "minimum_assessment_threshold": 78,
+      "priority_weight": 0.70
+    },
+    {
+      "role_id": "REQ-1004",
+      "job_title": "Product Analyst",
+      "company_tier": "Tier 1",
+      "industry": "SaaS",
+      "required_skills": ["Python", "A/B Testing", "Pandas", "Plotly"],
+      "minimum_assessment_threshold": 88,
+      "priority_weight": 0.85
+    },
+    {
+      "role_id": "REQ-1005",
+      "job_title": "Analytics Engineer",
+      "company_tier": "Tier 2",
+      "industry": "Logistics",
+      "required_skills": ["Python", "ETL", "SQL", "Pandas"],
+      "minimum_assessment_threshold": 80,
+      "priority_weight": 0.75
+    },
+    {
+      "role_id": "REQ-1006",
+      "job_title": "Marketing Data Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Digital Agency",
+      "required_skills": ["Python", "Excel", "Data Visualization", "Seaborn"],
+      "minimum_assessment_threshold": 70,
+      "priority_weight": 0.40
+    },
+    {
+      "role_id": "REQ-1007",
+      "job_title": "Machine Learning Engineer",
+      "company_tier": "Tier 1",
+      "industry": "Artificial Intelligence",
+      "required_skills": ["Python", "Deep Learning", "NumPy", "TensorFlow"],
+      "minimum_assessment_threshold": 95,
+      "priority_weight": 1.00
+    },
+    {
+      "role_id": "REQ-1008",
+      "job_title": "Healthcare Data Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Healthcare",
+      "required_skills": ["Python", "Pandas", "Statistics", "Matplotlib"],
+      "minimum_assessment_threshold": 82,
+      "priority_weight": 0.80
+    },
+    {
+      "role_id": "REQ-1009",
+      "job_title": "Data Engineer I",
+      "company_tier": "Tier 1",
+      "industry": "Cloud Infrastructure",
+      "required_skills": ["Python", "SQL", "PySpark", "AWS"],
+      "minimum_assessment_threshold": 90,
+      "priority_weight": 0.95
+    },
+    {
+      "role_id": "REQ-1010",
+      "job_title": "Junior Quantitative Analyst",
+      "company_tier": "Tier 1",
+      "industry": "Investment Banking",
+      "required_skills": ["Python", "NumPy", "Financial Modeling", "Time Series Analysis"],
+      "minimum_assessment_threshold": 94,
+      "priority_weight": 0.98
+    },
+    {
+      "role_id": "REQ-1011",
+      "job_title": "Customer Insights Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Retail",
+      "required_skills": ["Python", "Pandas", "Data Visualization", "Plotly"],
+      "minimum_assessment_threshold": 72,
+      "priority_weight": 0.50
+    },
+    {
+      "role_id": "REQ-1012",
+      "job_title": "Data Science Consultant",
+      "company_tier": "Tier 1",
+      "industry": "Consulting",
+      "required_skills": ["Python", "Machine Learning", "Communication", "PyGWalker"],
+      "minimum_assessment_threshold": 89,
+      "priority_weight": 0.90
+    },
+    {
+      "role_id": "REQ-1013",
+      "job_title": "Risk Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Insurance",
+      "required_skills": ["Python", "Statistics", "SQL", "Pandas"],
+      "minimum_assessment_threshold": 80,
+      "priority_weight": 0.70
+    },
+    {
+      "role_id": "REQ-1014",
+      "job_title": "Operations Data Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Manufacturing",
+      "required_skills": ["Python", "Excel", "Tableau", "Process Optimization"],
+      "minimum_assessment_threshold": 75,
+      "priority_weight": 0.65
+    },
+    {
+      "role_id": "REQ-1015",
+      "job_title": "Fraud Detection Analyst",
+      "company_tier": "Tier 1",
+      "industry": "FinTech",
+      "required_skills": ["Python", "Machine Learning", "Anomaly Detection", "SQL"],
+      "minimum_assessment_threshold": 91,
+      "priority_weight": 0.92
+    },
+    {
+      "role_id": "REQ-1016",
+      "job_title": "Junior Python Developer (Data)",
+      "company_tier": "Tier 3",
+      "industry": "Software Services",
+      "required_skills": ["Python", "APIs", "Data Scraping", "Pandas"],
+      "minimum_assessment_threshold": 70,
+      "priority_weight": 0.45
+    },
+    {
+      "role_id": "REQ-1017",
+      "role_id": "REQ-1017",
+      "job_title": "HR Analytics Specialist",
+      "company_tier": "Tier 2",
+      "industry": "Human Resources",
+      "required_skills": ["Python", "Data Visualization", "Pandas", "Seaborn"],
+      "minimum_assessment_threshold": 76,
+      "priority_weight": 0.60
+    },
+    {
+      "role_id": "REQ-1018",
+      "job_title": "AI Research Assistant",
+      "company_tier": "Tier 1",
+      "industry": "Research Institute",
+      "required_skills": ["Python", "Deep Learning", "Mathematics", "NumPy"],
+      "minimum_assessment_threshold": 95,
+      "priority_weight": 0.85
+    },
+    {
+      "role_id": "REQ-1019",
+      "job_title": "Supply Chain Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Logistics",
+      "required_skills": ["Python", "Optimization", "SQL", "Plotly"],
+      "minimum_assessment_threshold": 78,
+      "priority_weight": 0.68
+    },
+    {
+      "role_id": "REQ-1020",
+      "job_title": "NLP Engineer",
+      "company_tier": "Tier 1",
+      "industry": "SaaS",
+      "required_skills": ["Python", "Natural Language Processing", "Machine Learning", "Text Analytics"],
+      "minimum_assessment_threshold": 93,
+      "priority_weight": 0.95
+    },
+    {
+      "role_id": "REQ-1021",
+      "job_title": "Sports Analytics Specialist",
+      "company_tier": "Tier 3",
+      "industry": "Entertainment",
+      "required_skills": ["Python", "Pandas", "Statistics", "Data Visualization"],
+      "minimum_assessment_threshold": 74,
+      "priority_weight": 0.55
+    },
+    {
+      "role_id": "REQ-1022",
+      "job_title": "Game Data Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Gaming",
+      "required_skills": ["Python", "SQL", "A/B Testing", "Tableau"],
+      "minimum_assessment_threshold": 82,
+      "priority_weight": 0.75
+    },
+    {
+      "role_id": "REQ-1023",
+      "job_title": "Data Governance Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Banking",
+      "required_skills": ["SQL", "Data Quality", "Python", "Documentation"],
+      "minimum_assessment_threshold": 80,
+      "priority_weight": 0.70
+    },
+    {
+      "role_id": "REQ-1024",
+      "job_title": "Geospatial Data Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Urban Planning",
+      "required_skills": ["Python", "GIS", "Pandas", "Matplotlib"],
+      "minimum_assessment_threshold": 75,
+      "priority_weight": 0.50
+    },
+    {
+      "role_id": "REQ-1025",
+      "job_title": "Financial Data Analyst",
+      "company_tier": "Tier 1",
+      "industry": "Investment Banking",
+      "required_skills": ["Python", "Pandas", "SQL", "Finance"],
+      "minimum_assessment_threshold": 88,
+      "priority_weight": 0.88
+    },
+    {
+      "role_id": "REQ-1026",
+      "job_title": "EdTech Analytics Manager",
+      "company_tier": "Tier 2",
+      "industry": "Education",
+      "required_skills": ["Python", "Data Visualization", "SQL", "Storytelling"],
+      "minimum_assessment_threshold": 84,
+      "priority_weight": 0.80
+    },
+    {
+      "role_id": "REQ-1027",
+      "job_title": "Junior Data Engineer",
+      "company_tier": "Tier 2",
+      "industry": "E-Commerce",
+      "required_skills": ["Python", "SQL", "ETL", "Cloud Basics"],
+      "minimum_assessment_threshold": 79,
+      "priority_weight": 0.72
+    },
+    {
+      "role_id": "REQ-1028",
+      "job_title": "Social Media Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Digital Agency",
+      "required_skills": ["Python", "Text Analytics", "Data Visualization", "Pandas"],
+      "minimum_assessment_threshold": 70,
+      "priority_weight": 0.40
+    },
+    {
+      "role_id": "REQ-1029",
+      "job_title": "Credit Risk Modeler",
+      "company_tier": "Tier 1",
+      "industry": "Banking",
+      "required_skills": ["Python", "Machine Learning", "Statistics", "Scikit-Learn"],
+      "minimum_assessment_threshold": 92,
+      "priority_weight": 0.94
+    },
+    {
+      "role_id": "REQ-1030",
+      "job_title": "Pricing Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Retail",
+      "required_skills": ["Python", "Optimization", "Pandas", "SQL"],
+      "minimum_assessment_threshold": 81,
+      "priority_weight": 0.76
+    },
+    {
+      "role_id": "REQ-1031",
+      "job_title": "IoT Data Analyst",
+      "company_tier": "Tier 1",
+      "industry": "Telecommunications",
+      "required_skills": ["Python", "Time Series Analysis", "NumPy", "Big Data"],
+      "minimum_assessment_threshold": 89,
+      "priority_weight": 0.90
+    },
+    {
+      "role_id": "REQ-1032",
+      "job_title": "Sustainability Data Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Non-Profit",
+      "required_skills": ["Python", "Data Visualization", "Pandas", "Research"],
+      "minimum_assessment_threshold": 73,
+      "priority_weight": 0.45
+    },
+    {
+      "role_id": "REQ-1033",
+      "job_title": "Computer Vision Engineer",
+      "company_tier": "Tier 1",
+      "industry": "Autonomous Vehicles",
+      "required_skills": ["Python", "Deep Learning", "OpenCV", "NumPy"],
+      "minimum_assessment_threshold": 96,
+      "priority_weight": 0.98
+    },
+    {
+      "role_id": "REQ-1034",
+      "job_title": "Sales Operations Analyst",
+      "company_tier": "Tier 2",
+      "industry": "SaaS",
+      "required_skills": ["SQL", "Python", "Tableau", "Forecasting"],
+      "minimum_assessment_threshold": 77,
+      "priority_weight": 0.65
+    },
+    {
+      "role_id": "REQ-1035",
+      "job_title": "Revenue Assurance Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Telecommunications",
+      "required_skills": ["Python", "SQL", "Pandas", "Auditing"],
+      "minimum_assessment_threshold": 80,
+      "priority_weight": 0.70
+    },
+    {
+      "role_id": "REQ-1036",
+      "job_title": "Cybersecurity Data Analyst",
+      "company_tier": "Tier 1",
+      "industry": "Cybersecurity",
+      "required_skills": ["Python", "Anomaly Detection", "SQL", "Log Analysis"],
+      "minimum_assessment_threshold": 90,
+      "priority_weight": 0.92
+    },
+    {
+      "role_id": "REQ-1037",
+      "job_title": "Market Research Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Consulting",
+      "required_skills": ["Python", "Statistics", "Survey Analysis", "Matplotlib"],
+      "minimum_assessment_threshold": 71,
+      "priority_weight": 0.50
+    },
+    {
+      "role_id": "REQ-1038",
+      "job_title": "Clinical Data Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Pharmaceuticals",
+      "required_skills": ["Python", "Biostatistics", "Pandas", "Data Privacy"],
+      "minimum_assessment_threshold": 84,
+      "priority_weight": 0.82
+    },
+    {
+      "role_id": "REQ-1039",
+      "job_title": "Algorithmic Trader",
+      "company_tier": "Tier 1",
+      "industry": "Hedge Fund",
+      "required_skills": ["Python", "Quantitative Analysis", "NumPy", "Low Latency"],
+      "minimum_assessment_threshold": 97,
+      "priority_weight": 1.00
+    },
+    {
+      "role_id": "REQ-1040",
+      "job_title": "Behavioral Data Scientist",
+      "company_tier": "Tier 1",
+      "industry": "Social Media",
+      "required_skills": ["Python", "Psychometrics", "Machine Learning", "A/B Testing"],
+      "minimum_assessment_threshold": 91,
+      "priority_weight": 0.89
+    },
+    {
+      "role_id": "REQ-1041",
+      "job_title": "Real Estate Data Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Real Estate",
+      "required_skills": ["Python", "Pandas", "Plotly", "Web Scraping"],
+      "minimum_assessment_threshold": 72,
+      "priority_weight": 0.45
+    },
+    {
+      "role_id": "REQ-1042",
+      "job_title": "Energy Trading Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Energy",
+      "required_skills": ["Python", "Time Series Analysis", "SQL", "Forecasting"],
+      "minimum_assessment_threshold": 83,
+      "priority_weight": 0.78
+    },
+    {
+      "role_id": "REQ-1043",
+      "job_title": "Bioinformatics Analyst",
+      "company_tier": "Tier 1",
+      "industry": "Biotechnology",
+      "required_skills": ["Python", "Genomics", "Pandas", "Statistical Modeling"],
+      "minimum_assessment_threshold": 92,
+      "priority_weight": 0.90
+    },
+    {
+      "role_id": "REQ-1044",
+      "job_title": "Quality Assurance Data Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Manufacturing",
+      "required_skills": ["Python", "Statistical Process Control", "Matplotlib", "Excel"],
+      "minimum_assessment_threshold": 70,
+      "priority_weight": 0.35
+    },
+    {
+      "role_id": "REQ-1045",
+      "job_title": "Recommendation Systems Engineer",
+      "company_tier": "Tier 1",
+      "industry": "Streaming Services",
+      "required_skills": ["Python", "Machine Learning", "Collaborative Filtering", "NumPy"],
+      "minimum_assessment_threshold": 94,
+      "priority_weight": 0.96
+    },
+    {
+      "role_id": "REQ-1046",
+      "job_title": "Inventory Planning Analyst",
+      "company_tier": "Tier 2",
+      "industry": "Retail",
+      "required_skills": ["Python", "SQL", "Pandas", "Demand Forecasting"],
+      "minimum_assessment_threshold": 79,
+      "priority_weight": 0.70
+    },
+    {
+      "role_id": "REQ-1047",
+      "job_title": "Junior Big Data Developer",
+      "company_tier": "Tier 2",
+      "industry": "IT Services",
+      "required_skills": ["Python", "Hadoop", "PySpark", "SQL"],
+      "minimum_assessment_threshold": 81,
+      "priority_weight": 0.74
+    },
+    {
+      "role_id": "REQ-1048",
+      "job_title": "Public Policy Data Analyst",
+      "company_tier": "Tier 3",
+      "industry": "Government",
+      "required_skills": ["Python", "Demographics Analysis", "Seaborn", "Pandas"],
+      "minimum_assessment_threshold": 75,
+      "priority_weight": 0.55
+    },
+    {
+      "role_id": "REQ-1049",
+      "job_title": "AgriTech Data Scientist",
+      "company_tier": "Tier 2",
+      "industry": "Agriculture",
+      "required_skills": ["Python", "Machine Learning", "IoT Data", "Computer Vision"],
+      "minimum_assessment_threshold": 86,
+      "priority_weight": 0.85
+    },
+    {
+      "role_id": "REQ-1050",
+      "job_title": "Chief Data Officer Apprentice",
+      "company_tier": "Tier 1",
+      "industry": "Conglomerate",
+      "required_skills": ["Python", "Data Strategy", "Machine Learning", "PyGWalker"],
+      "minimum_assessment_threshold": 95,
+      "priority_weight": 1.00
+    }
+  ]
+}

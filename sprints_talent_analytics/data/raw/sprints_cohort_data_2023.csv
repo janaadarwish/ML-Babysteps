@@ -1,0 +1,27 @@
+learner_id,cohort_id,enrollment_date,graduation_date,demographic_group,track_name,engagement_score,module_1_score,module_2_score,module_3_score,module_4_score,module_5_score,module_6_score,module_7_score,module_8_score,module_9_score,module_10_score,capstone_score
+LRN-1001,2023-Q1-DA,2023-01-15,2023-07-20,Group_A,Advanced Data Analysis,85,90,88,92,85,89,94,88,91,95,90,93
+LRN-1002,2023-Q1-DA,2023-01-15,2023-07-20,Group_B,Advanced Data Analysis,999,70,75,,65,80,77,81,72,68,74,76
+LRN-1003,2023-Q2-AI,2023-04-10,2023-10-15,Group_A,AI & Machine Learning,92,95,96,91,98,94,99,90,92,95,97,96
+LRN-1004,2023-Q1-FS,2023-01-15,2023-07-20,Group_C,Full Stack Web Development,45,60,55,58,62,59,61,65,54,55,60,58
+LRN-1001,2023-Q1-DA,2023-01-15,2023-07-20,Group_A,Advanced Data Analysis,85,90,88,92,85,89,94,88,91,95,90,93
+LRN-1005,2023-Q2-DA,2023-04-10,2023-10-15,Group_D,Advanced Data Analysis,78,80,82,79,85,81,,86,88,82,84,85
+LRN-1006,2023-Q3-DA,2023-07-12,2024-01-20,Group_B,Advanced Data Analysis,-20,88,85,89,90,92,85,87,88,91,94,90
+LRN-1007,2023-Q1-DA,2023-01-15,,Group_A,Advanced Data Analysis,30,40,45,42,38,,,,,,,
+LRN-1008,2023-Q2-FS,2023-04-10,2023-10-15,Group_C,Full Stack Web Development,88,92,90,85,89,94,91,88,93,95,90,91
+LRN-1009,2023-Q3-AI,2023-07-12,2024-01-20,Group_A,AI & Machine Learning,95,98,97,95,99,96,98,94,97,99,98,99
+LRN-1010,2023-Q1-DA,2023-01-15,2023-07-20,Group_D,Advanced Data Analysis,72,75,78,80,76,79,82,75,77,80,78,79
+LRN-1011,2023-Q2-DA,2023-04-10,2023-10-15,Group_B,Advanced Data Analysis,82,85,,87,82,88,85,89,86,84,88,87
+LRN-1008,2023-Q2-FS,2023-04-10,2023-10-15,Group_C,Full Stack Web Development,88,92,90,85,89,94,91,88,93,95,90,91
+LRN-1012,2023-Q1-AI,2023-01-15,2023-07-20,Group_C,AI & Machine Learning,1500,88,90,85,87,92,89,85,88,91,94,90
+LRN-1013,2023-Q3-DA,2023-07-12,2024-01-20,Group_A,Advanced Data Analysis,65,70,72,68,75,71,74,69,72,75,70,73
+LRN-1014,2023-Q2-FS,2023-04-10,2023-10-15,Group_B,Full Stack Web Development,,85,82,88,84,89,86,82,85,87,88,86
+LRN-1015,2023-Q3-AI,2023-07-12,2024-01-20,Group_D,AI & Machine Learning,91,93,91,95,92,94,96,91,93,95,94,95
+LRN-1016,2023-Q1-DA,2023-01-15,2023-07-20,Group_C,Advanced Data Analysis,55,60,62,58,65,61,64,59,,,,
+LRN-1017,2023-Q2-DA,2023-04-10,2023-10-15,Group_A,Advanced Data Analysis,89,91,88,93,90,94,92,89,91,95,93,92
+LRN-1018,2023-Q3-FS,2023-07-12,2024-01-20,Group_B,Full Stack Web Development,77,80,78,82,79,83,81,78,80,84,82,81
+LRN-1019,2023-Q1-AI,2023-01-15,2023-07-20,Group_A,AI & Machine Learning,94,96,95,98,96,97,99,95,97,98,96,98
+LRN-1020,2023-Q3-DA,2023-07-12,2024-01-20,Group_C,Advanced Data Analysis,-5,68,70,75,72,76,74,71,73,77,75,74
+LRN-1021,2023-Q2-FS,2023-04-10,2023-10-15,Group_D,Full Stack Web Development,84,86,85,89,87,90,88,85,87,91,89,88
+LRN-1022,2023-Q1-DA,2023-01-15,2023-07-20,Group_B,Advanced Data Analysis,80,85,83,81,84,87,85,82,88,86,84,85
+LRN-1023,2023-Q2-AI,2023-04-10,,Group_C,AI & Machine Learning,15,45,40,48,50,,,,,,,,
+LRN-1024,2023-Q3-DA,2023-07-12,2024-01-20,Group_A,Advanced Data Analysis,88,90,92,89,93,88,91,90,92,94,93,91

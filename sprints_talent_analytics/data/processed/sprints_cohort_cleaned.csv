@@ -1,0 +1,25 @@
+learner_id,cohort_id,enrollment_date,graduation_date,demographic_group,track_name,engagement_score,module_1_score,module_2_score,module_3_score,module_4_score,module_5_score,module_6_score,module_7_score,module_8_score,module_9_score,module_10_score,capstone_score
+LRN-1001,2023-Q1-DA,2023-01-15,2023-07-20,Group_A,Advanced Data Analysis,85.0,90,88.0,92.0,85,89.0,94.0,88.0,91.0,95.0,90.0,93.0
+LRN-1002,2023-Q1-DA,2023-01-15,2023-07-20,Group_B,Advanced Data Analysis,,70,75.0,,65,80.0,77.0,81.0,72.0,68.0,74.0,76.0
+LRN-1003,2023-Q2-AI,2023-04-10,2023-10-15,Group_A,AI & Machine Learning,92.0,95,96.0,91.0,98,94.0,99.0,90.0,92.0,95.0,97.0,96.0
+LRN-1004,2023-Q1-FS,2023-01-15,2023-07-20,Group_C,Full Stack Web Development,45.0,60,55.0,58.0,62,59.0,61.0,65.0,54.0,55.0,60.0,58.0
+LRN-1005,2023-Q2-DA,2023-04-10,2023-10-15,Group_D,Advanced Data Analysis,78.0,80,82.0,79.0,85,81.0,,86.0,88.0,82.0,84.0,85.0
+LRN-1006,2023-Q3-DA,2023-07-12,2024-01-20,Group_B,Advanced Data Analysis,,88,85.0,89.0,90,92.0,85.0,87.0,88.0,91.0,94.0,90.0
+LRN-1007,2023-Q1-DA,2023-01-15,,Group_A,Advanced Data Analysis,30.0,40,45.0,42.0,38,,,,,,,
+LRN-1008,2023-Q2-FS,2023-04-10,2023-10-15,Group_C,Full Stack Web Development,88.0,92,90.0,85.0,89,94.0,91.0,88.0,93.0,95.0,90.0,91.0
+LRN-1009,2023-Q3-AI,2023-07-12,2024-01-20,Group_A,AI & Machine Learning,95.0,98,97.0,95.0,99,96.0,98.0,94.0,97.0,99.0,98.0,99.0
+LRN-1010,2023-Q1-DA,2023-01-15,2023-07-20,Group_D,Advanced Data Analysis,72.0,75,78.0,80.0,76,79.0,82.0,75.0,77.0,80.0,78.0,79.0
+LRN-1011,2023-Q2-DA,2023-04-10,2023-10-15,Group_B,Advanced Data Analysis,82.0,85,,87.0,82,88.0,85.0,89.0,86.0,84.0,88.0,87.0
+LRN-1012,2023-Q1-AI,2023-01-15,2023-07-20,Group_C,AI & Machine Learning,,88,90.0,85.0,87,92.0,89.0,85.0,88.0,91.0,94.0,90.0
+LRN-1013,2023-Q3-DA,2023-07-12,2024-01-20,Group_A,Advanced Data Analysis,65.0,70,72.0,68.0,75,71.0,74.0,69.0,72.0,75.0,70.0,73.0
+LRN-1014,2023-Q2-FS,2023-04-10,2023-10-15,Group_B,Full Stack Web Development,,85,82.0,88.0,84,89.0,86.0,82.0,85.0,87.0,88.0,86.0
+LRN-1015,2023-Q3-AI,2023-07-12,2024-01-20,Group_D,AI & Machine Learning,91.0,93,91.0,95.0,92,94.0,96.0,91.0,93.0,95.0,94.0,95.0
+LRN-1016,2023-Q1-DA,2023-01-15,2023-07-20,Group_C,Advanced Data Analysis,55.0,60,62.0,58.0,65,61.0,64.0,59.0,,,,
+LRN-1017,2023-Q2-DA,2023-04-10,2023-10-15,Group_A,Advanced Data Analysis,89.0,91,88.0,93.0,90,94.0,92.0,89.0,91.0,95.0,93.0,92.0
+LRN-1018,2023-Q3-FS,2023-07-12,2024-01-20,Group_B,Full Stack Web Development,77.0,80,78.0,82.0,79,83.0,81.0,78.0,80.0,84.0,82.0,81.0
+LRN-1019,2023-Q1-AI,2023-01-15,2023-07-20,Group_A,AI & Machine Learning,94.0,96,95.0,98.0,96,97.0,99.0,95.0,97.0,98.0,96.0,98.0
+LRN-1020,2023-Q3-DA,2023-07-12,2024-01-20,Group_C,Advanced Data Analysis,,68,70.0,75.0,72,76.0,74.0,71.0,73.0,77.0,75.0,74.0
+LRN-1021,2023-Q2-FS,2023-04-10,2023-10-15,Group_D,Full Stack Web Development,84.0,86,85.0,89.0,87,90.0,88.0,85.0,87.0,91.0,89.0,88.0
+LRN-1022,2023-Q1-DA,2023-01-15,2023-07-20,Group_B,Advanced Data Analysis,80.0,85,83.0,81.0,84,87.0,85.0,82.0,88.0,86.0,84.0,85.0
+LRN-1023,2023-Q2-AI,2023-04-10,,Group_C,AI & Machine Learning,15.0,45,40.0,48.0,50,,,,,,,
+LRN-1024,2023-Q3-DA,2023-07-12,2024-01-20,Group_A,Advanced Data Analysis,88.0,90,92.0,89.0,93,88.0,91.0,90.0,92.0,94.0,93.0,91.0
