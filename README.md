@@ -53,18 +53,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 3. Open any notebook and start learning! 🎉
 
----
-
-## 🗂️ Repo Structure
-
-```
-machine-learning-babysteps/
-│
-├── data_preprocessing/       # EDA and data cleaning notebooks
-├── supervised_learning/      # Regression & classification notebooks
-├── unsupervised_learning/    # Clustering & dimensionality reduction
-└── README.md
-```
 
 ---
 
